@@ -21,40 +21,85 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
+<br>
 
-### 🎓
+<img width="42" src="https://em-content.zobj.net/source/apple/391/graduation-cap_1f393.png"/>
+
+<br><br>
+
 **Student**
-<sub>B.Sc. Information Systems<br>Kongu Engineering College<br>2024 – 2027</sub>
 
+<sub>
+B.Sc. Information Systems<br>
+Kongu Engineering College<br>
+2024 – 2027
+</sub>
+<br><br>
 </td>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
+<br>
 
-### 🧩
+<img width="42" src="https://em-content.zobj.net/source/apple/391/puzzle-piece_1f9e9.png"/>
+
+<br><br>
+
 **Fixer**
-<sub>Turn messy manual<br>workflows into clean,<br>automated systems</sub>
 
+<sub>
+Turns messy manual<br>
+workflows into clean,<br>
+automated systems
+</sub>
+<br><br>
 </td>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
+<br>
 
-### 🤖
+<img width="42" src="https://em-content.zobj.net/source/apple/391/robot_1f916.png"/>
+
+<br><br>
+
 **AI Tinkerer**
-<sub>Living in n8n, LangChain,<br>OpenAI APIs & RAG<br>experiments</sub>
 
+<sub>
+Living in n8n, LangChain,<br>
+OpenAI APIs & RAG<br>
+experiments
+</sub>
+<br><br>
 </td>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
+<br>
 
-### 🏗️
+<img width="42" src="https://em-content.zobj.net/source/apple/391/hammer-and-wrench_1f6e0-fe0f.png"/>
+
+<br><br>
+
 **Builder**
-<sub>4 solo-shipped projects —<br>LMS · Gym App · Secure<br>Files · AI Travel Bot</sub>
 
+<sub>
+4 solo-shipped projects —<br>
+LMS · Gym App · Secure<br>
+Files · AI Travel Bot
+</sub>
+<br><br>
 </td>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
+<br>
 
-### 🏆
+<img width="42" src="https://em-content.zobj.net/source/apple/391/trophy_1f3c6.png"/>
+
+<br><br>
+
 **Competitor**
-<sub>2× 1st Place<br>1× 3rd Place<br>and counting</sub>
 
+<sub>
+2× 1st Place<br>
+1× 3rd Place<br>
+and counting
+</sub>
+<br><br>
 </td>
 </tr>
 </table>
@@ -65,8 +110,10 @@
 
 </div>
 
+<br>
+
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
 </div>
 
 <br>
