@@ -21,12 +21,9 @@
 
 <table width="100%">
 <tr>
-<td align="center" valign="top" width="20%">
-<br>
+<td align="center" valign="middle" width="20%">
 
-<img width="42" src="https://em-content.zobj.net/source/apple/391/graduation-cap_1f393.png"/>
-
-<br><br>
+<img width="34" src="https://em-content.zobj.net/source/apple/391/graduation-cap_1f393.png"/>
 
 **Student**
 
@@ -35,14 +32,11 @@ B.Sc. Information Systems<br>
 Kongu Engineering College<br>
 2024 – 2027
 </sub>
-<br><br>
+
 </td>
-<td align="center" valign="top" width="20%">
-<br>
+<td align="center" valign="middle" width="20%">
 
-<img width="42" src="https://em-content.zobj.net/source/apple/391/puzzle-piece_1f9e9.png"/>
-
-<br><br>
+<img width="34" src="https://em-content.zobj.net/source/apple/391/puzzle-piece_1f9e9.png"/>
 
 **Fixer**
 
@@ -51,55 +45,43 @@ Turns messy manual<br>
 workflows into clean,<br>
 automated systems
 </sub>
-<br><br>
+
 </td>
-<td align="center" valign="top" width="20%">
-<br>
+<td align="center" valign="middle" width="20%">
 
-<img width="42" src="https://em-content.zobj.net/source/apple/391/robot_1f916.png"/>
-
-<br><br>
+<img width="34" src="https://em-content.zobj.net/source/apple/391/robot_1f916.png"/>
 
 **AI Tinkerer**
 
 <sub>
 Living in n8n, LangChain,<br>
-OpenAI APIs & RAG<br>
-experiments
+OpenAI APIs & RAG
 </sub>
-<br><br>
+
 </td>
-<td align="center" valign="top" width="20%">
-<br>
+<td align="center" valign="middle" width="20%">
 
-<img width="42" src="https://em-content.zobj.net/source/apple/391/hammer-and-wrench_1f6e0-fe0f.png"/>
-
-<br><br>
+<img width="34" src="https://em-content.zobj.net/source/apple/391/hammer-and-wrench_1f6e0-fe0f.png"/>
 
 **Builder**
 
 <sub>
 4 solo-shipped projects —<br>
-LMS · Gym App · Secure<br>
-Files · AI Travel Bot
+LMS · Gym · Secure Files · Travel Bot
 </sub>
-<br><br>
+
 </td>
-<td align="center" valign="top" width="20%">
-<br>
+<td align="center" valign="middle" width="20%">
 
-<img width="42" src="https://em-content.zobj.net/source/apple/391/trophy_1f3c6.png"/>
-
-<br><br>
+<img width="34" src="https://em-content.zobj.net/source/apple/391/trophy_1f3c6.png"/>
 
 **Competitor**
 
 <sub>
-2× 1st Place<br>
-1× 3rd Place<br>
+2× 1st Place · 1× 3rd Place<br>
 and counting
 </sub>
-<br><br>
+
 </td>
 </tr>
 </table>
