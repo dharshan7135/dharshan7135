@@ -19,14 +19,51 @@
 
 ## 🎨 A Little About Me
 
-```
-🎓  Pursuing B.Sc. Information Systems @ Kongu Engineering College  (2024 – 2027)
-🧩  I like turning messy manual workflows into clean automated systems
-🤖  Deep into agentic AI right now — n8n, LangChain, OpenAI APIs, RAG
-🏗️  I've shipped 4 full projects solo — LMS platforms, gym apps, secure file systems, AI travel bots
-🏆  Hackathon person — 2x 1st place, 1x 3rd place, and counting
-💬  Ask me about: React, Node.js, workflow automation, or why I love a good clean commit history
-```
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+
+### 🎓
+**Student**
+<sub>B.Sc. Information Systems<br>Kongu Engineering College<br>2024 – 2027</sub>
+
+</td>
+<td align="center" width="20%">
+
+### 🧩
+**Fixer**
+<sub>Turn messy manual<br>workflows into clean,<br>automated systems</sub>
+
+</td>
+<td align="center" width="20%">
+
+### 🤖
+**AI Tinkerer**
+<sub>Living in n8n, LangChain,<br>OpenAI APIs & RAG<br>experiments</sub>
+
+</td>
+<td align="center" width="20%">
+
+### 🏗️
+**Builder**
+<sub>4 solo-shipped projects —<br>LMS · Gym App · Secure<br>Files · AI Travel Bot</sub>
+
+</td>
+<td align="center" width="20%">
+
+### 🏆
+**Competitor**
+<sub>2× 1st Place<br>1× 3rd Place<br>and counting</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`💬 Ping me about →` **React** · **Node.js** · **Workflow Automation** · **Agentic AI** · **or just clean commit history 😄**
+
+</div>
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
