@@ -1,160 +1,171 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=DHARSHAN%20KUMAR%20K&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=%3E%20Software%20Engineer%20_%20Agentic%20AI%20_%20Automation%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9B5DE5&height=230&section=header&text=Hey,%20I'm%20Dharshan%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Tinkerer%20•%20Idea-to-Product%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=700&color=FF6B6B,FFD93D,6BCB77,4D96FF,9B5DE5&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=I+build+things+that+automate+the+boring+stuff+%F0%9F%A4%96;Full-stack+dev+%7C+React+%C2%B7+Node+%C2%B7+MongoDB;Currently+vibing+with+n8n+%2B+LangChain+%2B+OpenAI;Turning+%22what+if%22+into+shipped+projects+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dharshan7135&label=Profile%20Visitors&color=9B5DE5&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.61%20%2F%2010-6BCB77?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Odoo-Certified-4D96FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-FFD93D?style=for-the-badge&labelColor=333"/>
+</p>
+
+<br>
+
+## 🎨 A Little About Me
+
+```
+🎓  Pursuing B.Sc. Information Systems @ Kongu Engineering College  (2024 – 2027)
+🧩  I like turning messy manual workflows into clean automated systems
+🤖  Deep into agentic AI right now — n8n, LangChain, OpenAI APIs, RAG
+🏗️  I've shipped 4 full projects solo — LMS platforms, gym apps, secure file systems, AI travel bots
+🏆  Hackathon person — 2x 1st place, 1x 3rd place, and counting
+💬  Ask me about: React, Node.js, workflow automation, or why I love a good clean commit history
+```
 
 <div align="center">
-
-```
-$ whoami
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=60&lines=root%40dharshan%3A~%24+full-stack+developer;root%40dharshan%3A~%24+agentic+AI+builder;root%40dharshan%3A~%24+n8n+%2B+LangChain+%2B+OpenAI;root%40dharshan%3A~%24+building+the+future...+%E2%96%88" alt="Typing SVG" />
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/ROLE-FULLSTACK%20ENGINEER-00FF41?style=for-the-badge&labelColor=000000&logo=hackthebox&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/BUILD-PASSING-00FF41?style=for-the-badge&labelColor=000000&logo=githubactions&logoColor=00FF41"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharshan7135&label=INTRUSIONS+DETECTED&color=00FF41&style=for-the-badge&labelColor=000000" alt="profile views"/>
-</p>
-
----
-
-<h3 align="center">📡 SYSTEM LOG — ./about_me.sh</h3>
-
-```bash
-> Aspiring Software Engineer specializing in full-stack development, agentic AI systems,
-> and workflow automation.
-
-> Currently compiling knowledge in:
-    [✓] LangChain          — exploring RAG & agentic pipelines
-    [✓] OpenAI APIs        — prompt engineering & AI prototyping
-    [✓] n8n                — low-code automation, API chaining
-    [✓] MERN Stack         — production-grade full-stack apps
-
-> Status: Pursuing B.Sc. Information Systems @ Kongu Engineering College (2024–2027)
-> CGPA: 8.61 | Odoo Certified — ERP Modules & Workflow Automation
-> Root Access Granted To: real-world problems.
-```
-
----
-
-<h3 align="center">🌐 NETWORK NODES // CONNECT</h3>
+## 🌈 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/dharshan-kumar-k-09a317321" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/dharshan7135" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/GitHub-6BCB77?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/dharshankumar24" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/LeetCode-4D96FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="mailto:k.dharshan7135@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/Gmail-9B5DE5?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<h3 align="center">⚙️ TECH ARSENAL</h3>
+## 🧰 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,react,nodejs,express,html,css,tailwind,mongodb,mysql,docker,git,postman,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,react,nodejs,express,html,css,tailwind,mongodb,mysql,docker,git,postman&theme=light&perline=7"/>
 </p>
 
-<div align="center">
-
-| `LANGUAGES` | `WEB / FRONTEND` | `BACKEND / DB` | `AI & AUTOMATION` | `TOOLS` |
-|:---:|:---:|:---:|:---:|:---:|
-| Java | React.js | Node.js / Express.js | n8n (Agentic Workflows) | Docker |
-| Python | HTML5 / CSS3 | MongoDB Atlas | OpenAI APIs | Git |
-| C | Tailwind CSS | MySQL | LangChain *(exploring)* | Postman |
-| | | Socket.io / JWT | Prompt Engineering | |
-
-</div>
-
----
-
-<h3 align="center">🧠 root@dharshan:~$ ls -la ./projects</h3>
-
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-```
-drwxr-xr-x  ZYVOX
-> Agentic AI Travel Assistant
-```
-- Built with **n8n** + WhatsApp/email APIs
-- Multi-step **agentic decision workflows** for dynamic itinerary generation
-- AI-driven nodes adapt recommendations to user preferences
-- Reduced manual planning effort by **~70%**
-- 🏆 **1st Place — Xenovex Xhackathon, Chennai**
-
-`Stack:` n8n · API Integration · WhatsApp Automation
-
-</td>
-<td width="50%" valign="top">
-
-```
-drwxr-xr-x  RULYN
-> Gamified STEM Learning Platform
-```
-- Full-stack offline-first LMS on the **MERN stack**
-- 7+ interactive STEM game modes, dual Student/Teacher modules
-- **JWT** role access, real-time **Socket.io** progress tracking
-- Offline-first caching + auto cloud sync to **MongoDB Atlas**
-- XP points, badge unlocks, leaderboard engine
-
-`Stack:` React · Node.js · Express.js · MongoDB · Socket.io · JWT
-
-</td>
+<th>🎯 Languages</th>
+<th>🖥️ Frontend</th>
+<th>⚙️ Backend & DB</th>
+<th>🤖 AI & Automation</th>
+<th>🛠️ Tools</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-```
-drwxr-xr-x  FITLEE
-> AI-Integrated Gym Management Platform
-```
-- Secure login, membership plans, trainer scheduling
-- **AI chatbot** for automated member query resolution
-- RESTful APIs across membership, trainer & booking modules
-
-`Stack:` React · Express.js · MongoDB · Tailwind CSS
+`Java`<br>`Python`<br>`C`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-```
-drwxr-xr-x  SECURE-FILE-SHARE
-> Threat Monitoring System
-```
-- **RBAC** (Role-Based Access Control) with audit logging
-- Basic threat monitoring & anomaly detection
-- Flags unauthorized access attempts in real time
+`React.js`<br>`HTML5 / CSS3`<br>`Tailwind CSS`
 
-`Stack:` Node.js · Python · MongoDB · RBAC · Security
+</td>
+<td valign="top">
+
+`Node.js`<br>`Express.js`<br>`MongoDB Atlas`<br>`MySQL`<br>`Socket.io / JWT`
+
+</td>
+<td valign="top">
+
+`n8n`<br>`OpenAI APIs`<br>`LangChain`<br>`Prompt Engineering`
+
+</td>
+<td valign="top">
+
+`Docker`<br>`Git`<br>`Postman`
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<h3 align="center">🏆 root@dharshan:~$ cat ./achievements.log</h3>
+## 🚀 Projects I'm Proud Of
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧳 ZYVOX
+**Agentic AI Travel Assistant**
+
+An AI agent that plans your whole trip so you don't have to. Built multi-step decision workflows in n8n that adapt to user preferences in real time, wired up to WhatsApp & email for live notifications.
+
+📉 Cut manual itinerary planning effort by **~70%**
+🏆 **1st Place — Xenovex Xhackathon, Chennai**
+
+![](https://img.shields.io/badge/-n8n-FF6B6B?style=flat-square) ![](https://img.shields.io/badge/-WhatsApp%20API-6BCB77?style=flat-square) ![](https://img.shields.io/badge/-Automation-4D96FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 RULYN
+**Gamified STEM Learning Platform**
+
+A full-stack, offline-first LMS with 7+ interactive STEM game modes. Students and teachers get separate worlds, real-time progress via Socket.io, and an XP/badge/leaderboard system that makes learning feel like a game.
+
+🔌 Works offline, auto-syncs when back online
+🎓 Dual-role access with JWT auth
+
+![](https://img.shields.io/badge/-React-FFD93D?style=flat-square) ![](https://img.shields.io/badge/-Node.js-6BCB77?style=flat-square) ![](https://img.shields.io/badge/-MongoDB-4D96FF?style=flat-square) ![](https://img.shields.io/badge/-Socket.io-9B5DE5?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ FITLEE
+**AI-Integrated Gym Management Platform**
+
+Membership plans, trainer scheduling, secure logins — and an AI chatbot that handles member questions so staff don't have to. RESTful APIs tie it all together.
+
+💬 AI chatbot cuts manual support load
+📅 Full trainer + booking management
+
+![](https://img.shields.io/badge/-React-FF6B6B?style=flat-square) ![](https://img.shields.io/badge/-Express.js-FFD93D?style=flat-square) ![](https://img.shields.io/badge/-MongoDB-6BCB77?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Secure File Sharing & Threat Monitor
+**Security-first file system**
+
+Built role-based access control (RBAC) with full audit logging, plus lightweight anomaly detection that flags unauthorized access attempts before they become a problem.
+
+🛡️ RBAC + audit trail
+🚨 Real-time anomaly flags
+
+![](https://img.shields.io/badge/-Node.js-4D96FF?style=flat-square) ![](https://img.shields.io/badge/-Python-9B5DE5?style=flat-square) ![](https://img.shields.io/badge/-MongoDB-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🏆 Trophy Room
 
 <div align="center">
 
-| 🏅 | Event | Result |
+| | Event | Placement |
 |:---:|:---|:---:|
 | 🥇 | Xenovex Xhackathon, Chennai — Agentic AI Travel Automation | **1st Place** |
 | 🥇 | KEC Techno Fest | **1st Place** |
@@ -162,47 +173,42 @@ drwxr-xr-x  SECURE-FILE-SHARE
 
 </div>
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dharshan7135&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=10"/>
+</div>
 
-<h3 align="center">📊 root@dharshan:~$ ./run_diagnostics.sh</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dharshan7135&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan7135&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dharshan7135&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B6B&icon_color=6BCB77&text_color=c9d1d9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan7135&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=4D96FF&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshan7135&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshan7135&theme=radical&hide_border=true&background=00000000&ring=FFD93D&fire=FF6B6B&currStreakLabel=6BCB77"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshan7135&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshan7135&theme=react-dark&hide_border=true&bg_color=00000000&color=9B5DE5&line=FF6B6B&point=FFD93D"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🐍 Contribution Snake
+
+<!-- Add .github/workflows/snake.yml (Platane/snk) with a rainbow theme to power this -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharshan7135&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
+  <img src="https://raw.githubusercontent.com/dharshan7135/dharshan7135/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
-
----
-
-<h3 align="center">🐍 root@dharshan:~$ ./contribution_matrix.sh</h3>
-
-<!--
-  Add .github/workflows/snake.yml (Platane/snk) to auto-generate this SVG.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dharshan7135/dharshan7135/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
 
 <div align="center">
 
-```
-> Connection established. Awaiting your next pull request...
-> [ EOF ]
-```
+### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,25:4D96FF,50:6BCB77,75:FFD93D,100:FF6B6B&height=120&section=footer"/>
+
+**Thanks for stopping by — go build something fun today! ✨**
 
 </div>
